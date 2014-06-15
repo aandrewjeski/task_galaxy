@@ -1,0 +1,6 @@
+<ul>
+  <% @tasklists.each do |list| %>
+    <li><%= link_to "#{list.name}", tasklist_path(list) %>
+    <%= link_to "Edit", tasklist_path(task) %></li>
+  <% end %>
+</ul>
