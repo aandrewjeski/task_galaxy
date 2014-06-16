@@ -1,4 +1,4 @@
-![ScreenShot](https://raw.github.com/{aandrewjeski/{task_galaxy}/
+![ScreenShot](/task_galaxy.jpg)
 
 If the above RAW syntax does not work, please visit this link for ER diagram:
 
